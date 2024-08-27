@@ -1,0 +1,10 @@
+{
+    "nordpool": {
+        "areas": ["DE-LU", "AT", "FR", "NL"],
+        "resolution": [10, 11, 12],
+        "currency": ["EUR"]
+    },
+    "influxdb": {
+        "url": "http://influxdb:8086"
+    }
+}
